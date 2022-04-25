@@ -1,0 +1,40 @@
+body {
+	background-color:black;
+	box-sizing: border-box;
+}
+
+.bienvenida {
+	background: slategray;
+	color: floralwhite;
+    margin: 0;
+    text-align: center;
+    vertical-align: text-top;
+    font-family:'Akshar', sans-serif;
+    height: 100px 
+}
+.radio_recentlyPlay{
+	margin: 0;
+	color: yellow;
+	background: slategray;
+	font-family:'Secular One', sans-serif;
+	height: 160px;
+	text-align: left;
+}
+.chat{
+	background-color: gray;
+	color: white;
+	font-family: 'Bebas Neue', cursive;
+	text-align: center;		
+}
+
+
+.reproductor {
+	background-color: black;
+	text-align: center;
+	justify-content: center;
+}
+#LinkVivo{
+	color: red;
+	font-family: 'Bebas Neue', cursive;
+
+}
